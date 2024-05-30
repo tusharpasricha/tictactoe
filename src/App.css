@@ -1,0 +1,15 @@
+.game {
+  background-color: black;
+  color : white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 1000px;
+}
+
+.square{
+  height: 50px;
+  width: 50px;
+}
+
